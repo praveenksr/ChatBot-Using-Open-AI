@@ -15,8 +15,7 @@ Embedchain: A powerful library for building knowledge-based apps.
 
 OS Module: To manage environment variables.
 
-How It Works
-
+## How It Works
 Setting up API Key:
 
 The OPEN_API_KEY is required and stored securely in the environment variable.
