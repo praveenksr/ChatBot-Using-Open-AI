@@ -1,5 +1,5 @@
 # Python-project
-## Chatbot Using Python
+## Chatbot Using Open A.I
 
 # KTM Information Bot
 
